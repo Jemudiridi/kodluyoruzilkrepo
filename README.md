@@ -6,7 +6,7 @@
 
  **bu ney**
 
-[***bu link sizi google'a götürecek***](www.google.com)
+[***bu link sizi google'a götürecek***](https://google.com)
 
 [bu foto nedir öyle](https://picsum.photos/200/300)
 
