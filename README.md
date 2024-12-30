@@ -1,10 +1,9 @@
  # kodluyoruzilkrepo
  ## Yapılacaklar listesi oluşturuyorum
 
- * zart zirt zort
- * zarti zurti
+ * Bu benim markdown öğrenmek için yaptığım bir çalışma
 
- **bu ney**
+ **Aşağıda birkaç deneme var**
 
 [***bu link sizi google'a götürecek***](https://google.com)
 
