@@ -9,7 +9,7 @@
 
 [bu foto nedir öyle](https://picsum.photos/200/300)
 
-[repo fotoğrafı](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
+![repo fotoğrafı](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 
 ---
 
